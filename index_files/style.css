@@ -1,0 +1,9 @@
+body {font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: small; }
+#photo {padding-left:40px; float:right;}
+#nameplate {color:maroon ; font-size:200%; padding-bottom:40px;}
+p.name {font-size: 100%; color:maroon;}
+p.info {font-size: 60%; color:black; padding-left:30px}
+p.caption {font-size 80%; }
+H1 {color:maroon; font-size:150%;}
+ul li {list-style-type:circle;}

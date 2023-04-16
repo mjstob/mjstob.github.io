@@ -12,6 +12,7 @@ fig:Rinck30
 fig:Rinck00
 fig:Boonstra
 tab:willem
+tab:faculty
 introduction
 the-service-department
 the-college-in-1920
@@ -27,7 +28,7 @@ departmental-traditions
 computer-science-and-professional-programs
 the-1982-computer-science-revision
 faculty-hiring-in-the-1980s-and-1990s
-new-digs-again
+moving-again-twice
 a-new-department
 the-growth-of-professional-programs
 the-mathematics-major
@@ -42,4 +43,13 @@ departmental-statement-on-research
 student-research
 mathematics-and-engineering
 the-mathematics-major-1
+the-1920-1926-major
+the-1927-1948-major
+the-1949-1966-major
+the-1967-major
+the-1968-1981-major
+the-1982-1990-major
+the-1991-2003-major
+the-2004-2019-major
 courses
+department-faculty

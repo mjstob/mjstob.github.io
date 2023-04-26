@@ -42,6 +42,8 @@ faculty-research
 departmental-statement-on-research
 student-research
 mathematics-and-engineering
+the-mathematics-curriculum-for-engineering-students
+the-mathematical-preparation-of-engineering-students
 the-mathematics-major-1
 the-1920-1926-major
 the-1927-1948-major
